@@ -22,3 +22,5 @@ files in green- staged, and ready to commit
 git push origin master- sends saved files to repo
 
 making a change in the github to pull to local repo...
+terminal is saying that the local needs to be saved before merge
+
