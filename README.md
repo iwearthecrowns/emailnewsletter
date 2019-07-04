@@ -8,3 +8,15 @@ Lines 3 and on is work from July 4
 there is something that i'm missing
 Is it because I have to save?...
 So the terminal noticed some changes...
+How do I stage something?
+Holy shit- I did it
+
+Steps:
+Save code (CTRL-S in the coding workspace)
+git commit -m "what did you do in the current version"
+-- saves to local repo (directory)
+files in red- changes, not stages
+git add, [space], first letter of file name, [TAB]- autofills name
+git status
+files in green- staged, and ready to commit
+git push origin master- sends saved files to repo
