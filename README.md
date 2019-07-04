@@ -20,4 +20,11 @@ git add, [space], first letter of file name, [TAB]- autofills name
 git status
 files in green- staged, and ready to commit
 git push origin master- sends saved files to repo
+<<<<<<< HEAD
 go to github, refresh to check if file was uploaded to repo
+=======
+
+making a change in the github to pull to local repo...
+terminal is saying that the local needs to be saved before merge
+
+>>>>>>> a5547d80542ddc4ff17cb956e9bc4382a7b0d7b8
