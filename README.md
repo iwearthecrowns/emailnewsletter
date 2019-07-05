@@ -11,13 +11,14 @@ So the terminal noticed some changes...
 How do I stage something?
 Holy shit- I did it
 
-Steps:
+STEPS:
 1- Save code (CTRL-S in the coding workspace)
-git add, [space], first letter of file name, [TAB]-> autofills name
-2- git commit -m "what did you do in the current version"
+2- git add, [space], first letter of file name, [TAB]-> autofills filename
+3- git commit -m "what did you do in the current version"
 --> saves to local repo (directory)
-files in red- changes, not staged (need to add)
-3- git status
+4- git status
 files in green- staged, and ready to commit
-4- git push origin master- sends saved files to repo
-5- go to github, refresh to check if file was uploaded to repo
+files in red- changes exist, but have not been staged (need to add)
+5- git push origin master- sends saved files to repo
+
+If you want to double check that it worked- go to the shared repo in github, refresh to check if file was uploaded
