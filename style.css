@@ -6,6 +6,15 @@ body {
   padding: 3em;
 }
 
+table {
+  width:600;
+  background-color:#C0C0C0;
+}
+
+td {
+  width:300;
+}
+
 h1 {
   font-size: 1.5em;
   font-weight: normal;
