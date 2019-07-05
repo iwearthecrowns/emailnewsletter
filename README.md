@@ -22,3 +22,9 @@ files in red- changes exist, but have not been staged (need to add)
 5- git push origin master- sends saved files to repo
 
 If you want to double check that it worked- go to the shared repo in github, refresh to check if file was uploaded
+
+
+LIVESHARE
+1- Start LiveShare session
+2- Invite collaborators
+3- Allow terminal to be read-write
