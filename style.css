@@ -9,10 +9,12 @@ body {
 table {
   width:600;
   background-color:#C0C0C0;
+  font-family: 'Arial', 'Verdana';
 }
 
 table td {
   width:300px;
+  font-family: 'Arial', 'Verdana';
 }
 
 h1 {
