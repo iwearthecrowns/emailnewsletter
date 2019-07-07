@@ -1,5 +1,5 @@
 # momscanco_project1
-Project 1 work: Cathy Cheo-Isaacs, Melissa McMahon, & Almarose Revives at MCCS3
+Project 1 work: Cathy Cheo-Isaacs, Melissa McMahon, & Almarose Revives at MCCS3 in USA
 Trying to use the terminal from VSCode
 I have opened the terminal. There is something about a staging area
 Okay, so this is on the local repo
